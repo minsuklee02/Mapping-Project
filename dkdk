@@ -1,0 +1,8 @@
+for i in range(5):
+  print("hello world.", i)
+  #this is a comment
+num = int(input("Enter something: "))
+num = 4
+num2 = int(input("Input another number: "))
+total = num + num2
+print("the total is: ", total)
